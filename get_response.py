@@ -1,5 +1,5 @@
 import requests
-from api_auto_test.read_excel import GetData
+from read_excel import GetData
 import json
 
 # 通过接口名称返回响应体，用作unittest断言

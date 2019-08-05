@@ -1,6 +1,6 @@
-from api_auto_test.read_excel import GetData
-from api_auto_test.get_response import Request_method
-from api_auto_test.read_database import get_mysql
+from read_excel import GetData
+from get_response import Request_method
+from read_database import get_mysql
 import unittest,json
 
 
