@@ -2,7 +2,6 @@ import requests
 from read_excel import GetData
 import json
 
-#加个注释
 # 通过接口名称返回响应体，用作unittest断言
 class Request_method(object):
     def __init__(self,params):
