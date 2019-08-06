@@ -69,7 +69,6 @@ if __name__ == '__main__':
     d = Request_method(params)
     print(d.send_request())
 
-
 # createPlaylist
 # getPlaylist
 
